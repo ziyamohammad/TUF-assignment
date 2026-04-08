@@ -6,13 +6,13 @@ A polished, interactive, and responsive calendar component inspired by a physica
 
 ## 🚀 Live Demo
 
-> *(Add your deployed link here – Vercel / Netlify recommended)*
+> Deployed Link : (https://tuf-assignment-coral.vercel.app/)
 
 ---
 
 ## 🎥 Demo Video
 
-> *(Add Loom / YouTube link here explaining features and UX)*
+> Deployed Link video : (https://drive.google.com/file/d/1P7EpuHE3gWkD9SfaxKKKatMw0ptb1R9t/view?usp=sharing)
 
 ---
 
